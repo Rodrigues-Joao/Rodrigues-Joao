@@ -2,7 +2,7 @@
 ### I'm João Victor
 
 - 🔭 I’m currently working on web and mobile development
-- 🌱 I’m currently learning NextJS and ElectronJS
+- 🌱 I’m currently learning NextJS, Go and Kafka
 
 
 <div>
